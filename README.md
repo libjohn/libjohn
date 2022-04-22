@@ -2,7 +2,7 @@
 
 My workshop code resources are here on GitHub.  Videos are [YouTube](https://youtube.com/johnlittle1).  It's all presented in one spot at my [Rfun](https://rfun.library.duke.edu) site. 
 
-Here's my [quick reference guide](https://rfun.library.duke.edu/git) to using GitHub with RStudio via `library(usethis)`.  My [ORCID](https://orcid.org/0000-0002-3600-0972) 
+Here's my [quick reference guide](https://rfun.library.duke.edu/git) to using GitHub with RStudio via `library(usethis)`.  Here's my [ORCID](https://orcid.org/0000-0002-3600-0972). 
 
 
 
