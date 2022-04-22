@@ -1,25 +1,10 @@
-### Hi there 👋
+[I'm](https://johnlittle.info) a Data Science Librarian in the [Center for Data & Visualization Sciences](https://library.duke.edu/data), I help Duke University students and researchers navigate practical data science challenges. 
 
-Hello World
+My workshop code resources are here on GitHub.  Videos are [YouTube](https://youtube.com/johnlittle1).  It's all presented in one spot at my [Rfun](https://rfun.library.duke.edu) site. 
 
-<https://rfun.library.duke.edu/git>  
-<https://www.johnlittle.info/#contact>  
-<https://youtube.com/johnlittle1>  
-<https://orcid.org/0000-0002-3600-0972>  
-<https://rfun.library.duke.edu>
+Here's my [quick reference guide to using GitHub](https://rfun.library.duke.edu/git) with RStudio. 
 
-------------------------------------------------------------------------
+My [Orcid](https://orcid.org/0000-0002-3600-0972) 
 
-As a Data Science Librarian/Consultant in the Center for Data &
-Visualization Sciences, I help Duke University students and researchers
-navigate practical data science challenges. To that end I provide a
-series of workshops on R; offer walk-in and by-appointment
-consultations; and host the R we having fun yet learning series (Rfun).
 
-My workshops and presentations focus on using R as a data-first coding
-language via the Tidyverse dialect, Reproducibility and tidy data, Text
-mining and sentiment analysis, Twitter and APIs, web scraping, data
-parsing, data cleaning, and data visualization. Each workshop is
-designed as a hands-on experience where you can download practice data,
-presentation slides, and workbook guides. Recorded video streaming is
-often available.
+
